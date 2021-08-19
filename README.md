@@ -15,7 +15,7 @@ LNbits can run on top of any lightning-network funding source, currently there i
 ## Documentation
 [lnbits.org](https://lnbits.org) - Detailed documentation
 
-[LNbits YouTube](https://www.youtube.com/playlist?list=PLPj3KCksGbSYG0ciIQUWJru1dWstPHshe) LNBits video series
+[LNbits YouTube](https://www.youtube.com/playlist?list=PLPj3KCksGbSYG0ciIQUWJru1dWstPHshe) - LNBits video series
 
 ## Projects
 [Going Dutch](https://goingdutch.pm) - A splitting the bill service, utilizing LNURLp and LNURLw extensions
