@@ -16,7 +16,6 @@ Awesome extensions and projects built on LNBits.
 - [LNDhub](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/lndhub) - Tip for video streamers, triggers animations
 - [LNURLp](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/lnurlp) - Mint LNURL-pay links (static LN payment QR codes, etc)
 - [LNURLw](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/lnurlw) - Mint LNURL-withdraws (Pull payments links, faucets, etc)
-
 - [Paywall](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/paywall) - Lightning paywalls
 - [userManager](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/usermanager) - Make and manage users/wallets (useful if using LNbits in your software staic)
 - [OfflineShop](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/watchonly) - Receive/verify lightning payments offline
