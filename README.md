@@ -19,4 +19,4 @@ LNbits can run on top of any lightning-network funding source, currently there i
 
 ## Projects
 * [Going Dutch](https://goingdutch.pm) - A splitting the bill service, utilizing LNURLp and LNURLw extensions
-
+* [@LightningTipBot](https://github.com/LightningTipBot/LightningTipBot) - A tip bot and Lightning wallet on Telegram
