@@ -13,7 +13,7 @@ Awesome extensions and projects built on LNBits.
 - [LNtickets](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/lnticket) - Pay-per-word tickets
 - [TPoS](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/tpos) - Mobile ready point-of-sale terminal
 - [StreamerCopilot](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/copilot) - Tip for video streamers, triggers animations
-- [LNDhub](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/lndhub) - Tip for video streamers, triggers animations
+- [LNDhub](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/lndhub) - Connect to your lnbits wallet from BlueWallet or Zeus
 - [LNURLp](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/lnurlp) - Mint LNURL-pay links (static LN payment QR codes, etc)
 - [LNURLw](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/lnurlw) - Mint LNURL-withdraws (Pull payments links, faucets, etc)
 - [Paywall](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/paywall) - Lightning paywalls
