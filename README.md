@@ -32,3 +32,4 @@ Awesome extensions and projects built on LNBits.
 - [Going Dutch](https://goingdutch.pm) - A splitting the bill service, utilizing LNURLp and LNURLw extensions
 - [@LightningTipBot](https://github.com/LightningTipBot/LightningTipBot) - A tip bot and Lightning wallet on Telegram
 - [ChargedMail](https://github.com/shocknet/chargedMail) - Paywall anti-spam for emails
+- [LNbits Link](https://github.com/bitcoincoretech/lnbits-link) - Browser extensions for LNbits
