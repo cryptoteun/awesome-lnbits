@@ -1,18 +1,6 @@
 # Awesome LNBits
 
-Awesome projects build on LNBits.
-
-## About LNBits
-
-LNbits is a very simple Python server that sits on top of any funding source, and can be used as:
-
-- Accounts system to mitigate the risk of exposing applications to your full balance, via unique API keys for each wallet
-- Extendable platform for exploring lightning-network functionality via LNbits extension framework
-- Part of a development stack via LNbits API
-- Fallback wallet for the LNURL scheme
-- Instant wallet for LN demonstrations
-
-LNbits can run on top of any lightning-network funding source, currently there is support for LND, c-lightning, Spark, LNpay, OpenNode, lntxbot, with more being added regularly.
+Awesome extensions and projects built on LNBits.
 
 ## Documentation
 
@@ -20,7 +8,24 @@ LNbits can run on top of any lightning-network funding source, currently there i
 - [lnbits.org](https://lnbits.org) - Detailed documentation
 - [LNbits YouTube](https://www.youtube.com/playlist?list=PLPj3KCksGbSYG0ciIQUWJru1dWstPHshe) - LNBits video series
 
-## Projects
+## LNbits Extensions
+
+- [LNtickets](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/lnticket) - Pay-per-word tickets
+- [TPoS](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/tpos) - Mobile ready point-of-sale terminal
+- [StreamerCopilot](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/copilot) - Tip for video streamers, triggers animations
+- [LNDhub](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/lndhub) - Tip for video streamers, triggers animations
+- [LNURLp](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/lnurlp) - Mint LNURL-pay links (static LN payment QR codes, etc)
+- [LNURLw](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/lnurlw) - Mint LNURL-withdraws (Pull payments links, faucets, etc)
+- [Paywall](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/paywall) - Lightning paywalls
+- [userManager](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/usermanager) - Make and manage users/wallets (useful if using LNbits in your software staic)
+- [OfflineShop](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/watchonly) - Receive/verify lightning payments offline
+- [Livestream](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/livestream) - DJs receive tips live and split with a producer
+- [Jukebox](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/jukebox) - Easily create a jukebox using Spotify/LNbits
+- [Events](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/events) - Sell and register event tickets
+- [Ngrok](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/ngrok) - Get a clearnet Ngrok url for your LNbits
+- [Subdomains](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/subdomains) - Rent a URLs subdomains
+
+## Projects using or inergrating LNbits
 
 - [Pay-to-read-more](https://github.com/schulterklopfer/ptrm) - Wordpress plugin for paywalled content
 - [LNbits for WooCommerce](https://gitlab.com/sovereign-individuals/lnbits-for-woocommerce) - Use LNbits as a payment method
