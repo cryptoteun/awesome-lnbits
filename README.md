@@ -25,7 +25,7 @@ Awesome extensions and projects built on LNBits.
 - [Ngrok](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/ngrok) - Get a clearnet Ngrok url for your LNbits
 - [Subdomains](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/subdomains) - Rent a URLs subdomains
 
-## Projects using or inergrating LNbits
+## Projects using or intergrating LNbits
 
 - [Pay-to-read-more](https://github.com/schulterklopfer/ptrm) - Wordpress plugin for paywalled content
 - [LNbits for WooCommerce](https://gitlab.com/sovereign-individuals/lnbits-for-woocommerce) - Use LNbits as a payment method
@@ -33,3 +33,4 @@ Awesome extensions and projects built on LNBits.
 - [@LightningTipBot](https://github.com/LightningTipBot/LightningTipBot) - A tip bot and Lightning wallet on Telegram
 - [ChargedMail](https://github.com/shocknet/chargedMail) - Paywall anti-spam for emails
 - [LNbits Link](https://github.com/bitcoincoretech/lnbits-link) - Browser extensions for LNbits
+- [Alby](https://github.com/getAlby/lightning-browser-extension) - A versatile browser extension for #Bitcoin and #LightningNetwork which support LNBits wallets.
