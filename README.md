@@ -25,6 +25,7 @@ Awesome extensions and projects built on LNBits.
 - [Ngrok](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/ngrok) - Get a clearnet Ngrok url for your LNbits
 - [Subdomains](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/subdomains) - Rent a URLs subdomains
 - [Bleskomat](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/bleskomat) - Connect one or more Bleskomat ATMs to LNbits wallet accounts
+- [LNURLPoS](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/lnurlpos) - Creating offline LNURL PoS systems
 
 ## Projects using or intergrating LNbits
 
