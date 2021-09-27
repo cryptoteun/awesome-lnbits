@@ -34,3 +34,4 @@ Awesome extensions and projects built on LNBits.
 - [ChargedMail](https://github.com/shocknet/chargedMail) - Paywall anti-spam for emails
 - [LNbits Link](https://github.com/bitcoincoretech/lnbits-link) - Browser extensions for LNbits
 - [Alby](https://github.com/getAlby/lightning-browser-extension) - A versatile browser extension for #Bitcoin and #LightningNetwork which support LNBits wallets.
+- [lnurl-node](https://github.com/chill117/lnurl-node) - Node.js implementation of an LNURL server w/ CLI and API. Integrates LNbits as a Lightning backend.
