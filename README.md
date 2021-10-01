@@ -38,4 +38,5 @@ Awesome extensions and projects built on LNBits.
 - [LNbits Link](https://github.com/bitcoincoretech/lnbits-link) - Browser extensions for LNbits
 - [lnurl-node](https://github.com/chill117/lnurl-node) - Node.js implementation of an LNURL server w/ CLI and API. Integrates LNbits as a Lightning backend.
 - [Pay-to-read-more](https://github.com/schulterklopfer/ptrm) - Wordpress plugin for paywalled content
+- [HCPP2021 Badge](https://github.com/taxmeifyoucan/HCPP2021-Badge) - Enabling Lightning payments with NFC cards 
 
