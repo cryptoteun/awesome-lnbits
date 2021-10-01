@@ -34,9 +34,10 @@ Awesome extensions and projects built on LNBits.
 - [Alby](https://github.com/getAlby/lightning-browser-extension) - A versatile browser extension for #Bitcoin and #LightningNetwork which support LNBits wallets.
 - [ChargedMail](https://github.com/shocknet/chargedMail) - Paywall anti-spam for emails
 - [Going Dutch](https://goingdutch.pm) - A splitting the bill service, utilizing LNURLp and LNURLw extensions
+- [HCPP2021 Badge](https://github.com/taxmeifyoucan/HCPP2021-Badge) - Enabling Lightning payments with NFC cards
 - [LNbits for WooCommerce](https://gitlab.com/sovereign-individuals/lnbits-for-woocommerce) - Use LNbits as a payment method
 - [LNbits Link](https://github.com/bitcoincoretech/lnbits-link) - Browser extensions for LNbits
 - [lnurl-node](https://github.com/chill117/lnurl-node) - Node.js implementation of an LNURL server w/ CLI and API. Integrates LNbits as a Lightning backend.
 - [Pay-to-read-more](https://github.com/schulterklopfer/ptrm) - Wordpress plugin for paywalled content
-- [HCPP2021 Badge](https://github.com/taxmeifyoucan/HCPP2021-Badge) - Enabling Lightning payments with NFC cards 
+- [Satdress](https://github.com/fiatjaf/satdress) - Federated Lightning Address Server supporting LNBits integration. 
 
