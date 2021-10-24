@@ -37,6 +37,8 @@ Awesome extensions and projects built on LNBits.
 - [HCPP2021 Badge](https://github.com/taxmeifyoucan/HCPP2021-Badge) - Enabling Lightning payments with NFC cards
 - [LNbits for WooCommerce](https://gitlab.com/sovereign-individuals/lnbits-for-woocommerce) - Use LNbits as a payment method
 - [LNbits Link](https://github.com/bitcoincoretech/lnbits-link) - Browser extensions for LNbits
+- [lnhort.it](https://lnshort.it) - A redirect service, utilizing LNURLp extensions for payments
+- [LNURLPos (offline)](https://github.com/arcbtc/LNURLPoS) - Cheap, offline(!), DIY bitcoin lightning-network PoS
 - [lnurl-node](https://github.com/chill117/lnurl-node) - Node.js implementation of an LNURL server w/ CLI and API. Integrates LNbits as a Lightning backend.
 - [Pay-to-read-more](https://github.com/schulterklopfer/ptrm) - Wordpress plugin for paywalled content
 - [Satdress](https://github.com/fiatjaf/satdress) - Federated Lightning Address Server supporting LNBits integration. 
