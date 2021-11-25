@@ -43,3 +43,6 @@ Awesome extensions and projects built on LNBits.
 - [Pay-to-read-more](https://github.com/schulterklopfer/ptrm) - Wordpress plugin for paywalled content
 - [Satdress](https://github.com/fiatjaf/satdress) - Federated Lightning Address Server supporting LNBits integration. 
 
+## Out of the box hardware
+
+- [LNURLPoS kit from the official LILYGO store](https://nl.aliexpress.com/item/1005003589706292.html)
