@@ -45,4 +45,4 @@ Awesome extensions and projects built on LNBits.
 
 ## Out of the box hardware
 
-- [LNURLPoS kit from the official LILYGO store](https://nl.aliexpress.com/item/1005003589706292.html)
+- [LNURLPoS kit](https://nl.aliexpress.com/item/1005003589706292.html) - LNURLPoS hardware kit from the official LILYGO store
