@@ -42,6 +42,7 @@ Awesome extensions and projects built on LNBits.
 - [lnurl-node](https://github.com/chill117/lnurl-node) - Node.js implementation of an LNURL server w/ CLI and API. Integrates LNbits as a Lightning backend.
 - [Pay-to-read-more](https://github.com/schulterklopfer/ptrm) - Wordpress plugin for paywalled content
 - [Satdress](https://github.com/fiatjaf/satdress) - Federated Lightning Address Server supporting LNBits integration. 
+- [@laiseebot](https://github.com/bitkarrot/laiseebot) - 🧧Little red envelopes with money: ⚡Lightning Laisee.
 
 ## Out of the box hardware
 
