@@ -5,7 +5,7 @@ Awesome extensions and projects built on LNBits.
 ## Documentation
 
 - [Github](https://github.com/lnbits/lnbits) - Official Repository
-- [lnbits.org](https://lnbits.org) - Detailed documentation
+- [lnbits.com](https://lnbits.com) - Detailed documentation
 - [LNbits YouTube](https://www.youtube.com/playlist?list=PLPj3KCksGbSYG0ciIQUWJru1dWstPHshe) - LNBits video series
 
 ## LNbits Extensions
