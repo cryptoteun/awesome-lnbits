@@ -26,7 +26,7 @@ Awesome extensions and projects built on LNBits.
 - [Subdomains](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/subdomains) - Rent a URLs subdomains
 - [TPoS](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/tpos) - Mobile ready point-of-sale terminal
 - [userManager](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/usermanager) - Make and manage users/wallets (useful if using LNbits in your software staic)
-
+- [LNURLDevice](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/lnurldevice) - For offline LNURL devices
 
 ## Projects using or intergrating LNbits
 
@@ -43,6 +43,7 @@ Awesome extensions and projects built on LNBits.
 - [Pay-to-read-more](https://github.com/schulterklopfer/ptrm) - Wordpress plugin for paywalled content
 - [Satdress](https://github.com/fiatjaf/satdress) - Federated Lightning Address Server supporting LNBits integration. 
 - [@laiseebot](https://github.com/bitkarrot/laiseebot) - 🧧Little red envelopes with money: ⚡Lightning Laisee.
+- [bitcoinPoS](https://github.com/arcbtc/bitcoinPoS) - Free and open-source bitcoin point-of-sale. 
 
 ## Out of the box hardware
 
