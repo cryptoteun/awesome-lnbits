@@ -46,6 +46,7 @@ Awesome extensions and projects built on LNBits.
 - [@laiseebot](https://github.com/bitkarrot/laiseebot) - 🧧Little red envelopes with money: ⚡Lightning Laisee.
 - [bitcoinPoS](https://github.com/arcbtc/bitcoinPoS) - Free and open-source bitcoin point-of-sale. 
 - [BTC Origin Stories](https://btcoriginstories.com/) - Split Lightning payment project whicht provides a glimpse into the future of splitting royalties.
+- [WP-Lightning](https://github.com/bumi/wp-lightning) - A Bitcoin Lightning paywall plugin for Wordpress.
 
 ## Out of the box hardware
 
