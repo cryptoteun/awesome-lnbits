@@ -18,7 +18,7 @@ Awesome extensions and projects built on LNBits.
 - [LNtickets](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/lnticket) - Pay-per-word tickets
 - [LNURLDevice](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/lnurldevice) - For offline LNURL devices
 - [LNURLp](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/lnurlp) - Mint LNURL-pay links (static LN payment QR codes, etc)
-- [Ngrok](https://github.com/lnbits/lnbits-legends/tree/master/lnbits/extensions/ngrok) - Get a clearnet Ngrok url for your LNbits
+- [Ngrok](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/ngrok) - Get a clearnet Ngrok url for your LNbits
 - [OfflineShop](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/watchonly) - Receive/verify lightning payments offline
 - [Paywall](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/paywall) - Lightning paywalls
 - [SplitPayments](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/splitpayments) - Split Payments extension allows for distributing payments across multiple wallets.
