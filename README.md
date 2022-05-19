@@ -8,6 +8,11 @@ Awesome extensions and projects built on LNBits.
 - [lnbits.com](https://lnbits.com) - Detailed documentation
 - [LNbits YouTube](https://www.youtube.com/playlist?list=PLPj3KCksGbSYG0ciIQUWJru1dWstPHshe) - LNBits video series
 
+## User Guides
+
+- [Substack](https://darthcoin.substack.com/p/lnbits-for-small-merchants) - LNBits for small merchants, use case
+- [Substack](https://darthcoin.substack.com/p/the-bank-of-lnbits) - The Bank of LNBits, how to be a bank for your merchant friend
+
 ## LNbits Extensions
 
 - [Bleskomat](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/bleskomat) - Connect one or more Bleskomat ATMs to LNbits wallet accounts
