@@ -2,18 +2,18 @@
 
 Awesome extensions and projects built on LNBits.
 
-## Documentation
+# Documentation
 
 - [Github](https://github.com/lnbits/lnbits) - Official Repository
 - [lnbits.com](https://lnbits.com) - Detailed documentation
 - [LNbits YouTube](https://www.youtube.com/playlist?list=PLPj3KCksGbSYG0ciIQUWJru1dWstPHshe) - LNBits video series
 
-## User Guides
+# User Guides
 
 - [Substack](https://darthcoin.substack.com/p/lnbits-for-small-merchants) - LNBits for small merchants, use case
 - [Substack](https://darthcoin.substack.com/p/the-bank-of-lnbits) - The Bank of LNBits, how to be a bank for your merchant friend
 
-## LNbits Extensions
+# LNbits Extensions
 
 - [Bleskomat](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/bleskomat) - Connect one or more Bleskomat ATMs to LNbits wallet accounts
 - [Events](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/events) - Sell and register event tickets
@@ -33,26 +33,34 @@ Awesome extensions and projects built on LNBits.
 - [userManager](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/usermanager) - Make and manage users/wallets (useful if using LNbits in your software staic)
 - [Withdraw](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/withdraw) - Mint LNURL-withdraws (Pull payments links, faucets, etc)
 
-## Projects using or intergrating LNbits
+# Software Projects utilizing LNbits
 
-- [@LightningTipBot](https://github.com/LightningTipBot/LightningTipBot) - A tip bot and Lightning wallet on Telegram
+#### General
 - [Alby](https://github.com/getAlby/lightning-browser-extension) - A versatile browser extension for #Bitcoin and #LightningNetwork which support LNBits wallets.
-- [BitcoinVoucherBot](https://t.me/BitcoinVoucherBot) - A service for purchasing #Bitcoin #Lightning Vouchers built using LNBits
+- [BTC Origin Stories](https://btcoriginstories.com/) - Split Lightning payment project whicht provides a glimpse into the future of splitting royalties.
 - [ChargedMail](https://github.com/shocknet/chargedMail) - Paywall anti-spam for emails
 - [Going Dutch](https://goingdutch.pm) - A splitting the bill service, utilizing LNURLp and LNURLw extensions
 - [HCPP2021 Badge](https://github.com/taxmeifyoucan/HCPP2021-Badge) - Enabling Lightning payments with NFC cards
-- [LNbits for WooCommerce](https://gitlab.com/sovereign-individuals/lnbits-for-woocommerce) - Use LNbits as a payment method
 - [LNbits Link](https://github.com/bitcoincoretech/lnbits-link) - Browser extensions for LNbits
-- [lnshort.it](https://lnshort.it) - A redirect service, utilizing LNURLp extensions for payments
-- [LNURLPos (offline)](https://github.com/arcbtc/LNURLPoS) - Cheap, offline(!), DIY bitcoin lightning-network PoS
 - [lnurl-node](https://github.com/chill117/lnurl-node) - Node.js implementation of an LNURL server w/ CLI and API. Integrates LNbits as a Lightning backend.
 - [ln ⚡️ vpn](https://lnvpn.net) - A simple Lightning only VPN provider. No registration, accountless. 
-- [Pay-to-read-more](https://github.com/schulterklopfer/ptrm) - Wordpress plugin for paywalled content
 - [Satdress](https://github.com/fiatjaf/satdress) - Federated Lightning Address Server supporting LNBits integration. 
-- [@laiseebot](https://github.com/bitkarrot/laiseebot) - 🧧Little red envelopes with money: ⚡Lightning Laisee.
-- [bitcoinPoS](https://github.com/arcbtc/bitcoinPoS) - Free and open-source bitcoin point-of-sale. 
-- [BTC Origin Stories](https://btcoriginstories.com/) - Split Lightning payment project whicht provides a glimpse into the future of splitting royalties.
+
+#### Telegram
+- [BitcoinVoucherBot](https://t.me/BitcoinVoucherBot) - A service for purchasing #Bitcoin #Lightning Vouchers built using LNBits
+- [laiseebot](https://github.com/bitkarrot/laiseebot) - 🧧Little red envelopes with money: ⚡Lightning Laisee.
+- [LightningTipBot](https://github.com/LightningTipBot/LightningTipBot) - A tip bot and Lightning wallet on Telegram
+
+#### Wordpress
+- [LNbits for WooCommerce](https://wordpress.org/plugins/lightning-payment-gateway-lnbits/) - Use LNbits as a payment method
+- [Pay-to-read-more](https://github.com/schulterklopfer/ptrm) - Wordpress plugin for paywalled content
 - [WP-Lightning](https://github.com/bumi/wp-lightning) - A Bitcoin Lightning paywall plugin for Wordpress.
+- [Pay to Comment with Lightning](https://wordpress.org/plugins/wp-lightning-comments/)
+
+# Hardware projects utilizing LNBits
+
+- [bitcoinPoS](https://github.com/arcbtc/bitcoinPoS) - Free and open-source bitcoin point-of-sale. 
+- [bitcoinSwitch](https://github.com/arcbtc/bitcoinSwitch) - Turn things on with bitcoin.
 
 ## Out of the box hardware
 
