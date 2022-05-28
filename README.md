@@ -63,7 +63,7 @@ Awesome extensions and projects built on LNBits.
 - [LNbits for WooCommerce](https://wordpress.org/plugins/lightning-payment-gateway-lnbits/) - Use LNbits as a payment method
 - [Pay-to-read-more](https://github.com/schulterklopfer/ptrm) - Wordpress plugin for paywalled content
 - [WP-Lightning](https://github.com/bumi/wp-lightning) - A Bitcoin Lightning paywall plugin for Wordpress.
-- [Pay to Comment with Lightning](https://wordpress.org/plugins/wp-lightning-comments/)
+- [Pay to Comment with Lightning](https://wordpress.org/plugins/wp-lightning-comments/) - This plugin disables the comment form until a Lightning payment is received
 
 # Hardware projects utilizing LNBits
 
