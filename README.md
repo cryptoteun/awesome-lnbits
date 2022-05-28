@@ -16,21 +16,29 @@ Awesome extensions and projects built on LNBits.
 # LNbits Extensions
 
 - [Bleskomat](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/bleskomat) - Connect one or more Bleskomat ATMs to LNbits wallet accounts
+- [Discord Bot](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/discordbot) - Provide LNbits wallets for all your Discord users
 - [Events](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/events) - Sell and register event tickets
 - [Jukebox](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/jukebox) - Easily create a jukebox using Spotify/LNbits
 - [Livestream](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/livestream) - DJs receive tips live and split with a producer
+- [Lightning Address](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/lnaddress) - Rent Lightning Addresses on your domain
 - [LNDhub](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/lndhub) - Connect to your lnbits wallet from BlueWallet or Zeus
 - [LNtickets](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/lnticket) - Pay-per-word tickets
 - [LNURLDevice](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/lnurldevice) - For offline LNURL devices
 - [LNURLp](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/lnurlp) - Mint LNURL-pay links (static LN payment QR codes, etc)
+- [LNURLPayOut](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/lnurlpayout) - Auto-dump a wallets funds to an LNURLpay
 - [Ngrok](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/ngrok) - Get a clearnet Ngrok url for your LNbits
 - [OfflineShop](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/watchonly) - Receive/verify lightning payments offline
 - [Paywall](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/paywall) - Lightning paywalls
-- [SplitPayments](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/splitpayments) - Split Payments extension allows for distributing payments across multiple wallets.
-- [StreamerCopilot](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/copilot) - Tip for video streamers, triggers animations
+- [Satsdice](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/satsdice) - Create static LNURL powered satsdices
+- [SatsPay Server](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/satspay) - Create onchain and LN charges. Includes webhooks
+- [Split Payments](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/splitpayments) - Split Payments extension allows for distributing payments across multiple wallets.
+- [Streamer Copilot](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/copilot) - Tip for video streamers, triggers animations
+- [Stream Alerts](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/streamalerts) - Integrate Bitcoin Donations into your livestream alerts
 - [Subdomains](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/subdomains) - Rent a URLs subdomains
+- [Tip Jars](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/tipjar) - Accept tips in Bitcoin, with small messages attached
 - [TPoS](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/tpos) - Mobile ready point-of-sale terminal
-- [userManager](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/usermanager) - Make and manage users/wallets (useful if using LNbits in your software staic)
+- [userManager](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/usermanager) - Make and manage users/wallets (useful if using LNbits in your software stack)
+- [Watch Only wallet](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/watchonly) - Monitor an onchain wallet and generate addresses for onchain payments
 - [Withdraw](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/withdraw) - Mint LNURL-withdraws (Pull payments links, faucets, etc)
 
 # Software Projects utilizing LNbits
@@ -61,7 +69,4 @@ Awesome extensions and projects built on LNBits.
 
 - [bitcoinPoS](https://github.com/arcbtc/bitcoinPoS) - Free and open-source bitcoin point-of-sale. 
 - [bitcoinSwitch](https://github.com/arcbtc/bitcoinSwitch) - Turn things on with bitcoin.
-
-## Out of the box hardware
-
-- [LNURLPoS kit](https://nl.aliexpress.com/item/1005003589706292.html) - LNURLPoS hardware kit from the official LILYGO store
+- [LNURLPoS kit](https://nl.aliexpress.com/item/1005003589706292.html) - bitcoinPOS hardware kit from the official LILYGO store
