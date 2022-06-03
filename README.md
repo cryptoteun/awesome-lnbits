@@ -47,6 +47,7 @@ Awesome extensions and projects built on LNBits.
 - [Alby](https://github.com/getAlby/lightning-browser-extension) - A versatile browser extension for #Bitcoin and #LightningNetwork which support LNBits wallets.
 - [BTC Origin Stories](https://btcoriginstories.com/) - Split Lightning payment project whicht provides a glimpse into the future of splitting royalties.
 - [ChargedMail](https://github.com/shocknet/chargedMail) - Paywall anti-spam for emails
+- [getbitcoin.org](https://www.getbitcoin.org/) - Human Rights Foundation website to let people learn more about bitcoin
 - [Going Dutch](https://goingdutch.pm) - A splitting the bill service, utilizing LNURLp and LNURLw extensions
 - [HCPP2021 Badge](https://github.com/taxmeifyoucan/HCPP2021-Badge) - Enabling Lightning payments with NFC cards
 - [LNbits Link](https://github.com/bitcoincoretech/lnbits-link) - Browser extensions for LNbits
