@@ -50,6 +50,7 @@ Awesome extensions and projects built on LNBits.
 - [Going Dutch](https://goingdutch.pm) - A splitting the bill service, utilizing LNURLp and LNURLw extensions
 - [HCPP2021 Badge](https://github.com/taxmeifyoucan/HCPP2021-Badge) - Enabling Lightning payments with NFC cards
 - [LNbits Link](https://github.com/bitcoincoretech/lnbits-link) - Browser extensions for LNbits
+- [LNBits JS API](https://github.com/MiguelMedeiros/lnbits-js) - Easy way to add LNBits API to your JS application.
 - [lnurl-node](https://github.com/chill117/lnurl-node) - Node.js implementation of an LNURL server w/ CLI and API. Integrates LNbits as a Lightning backend.
 - [ln ⚡️ vpn](https://lnvpn.net) - A simple Lightning only VPN provider. No registration, accountless. 
 - [Satdress](https://github.com/fiatjaf/satdress) - Federated Lightning Address Server supporting LNBits integration. 
