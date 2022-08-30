@@ -13,6 +13,7 @@ Awesome extensions and projects built on LNBits.
 - [Substack](https://darthcoin.substack.com/p/lnbits-for-small-merchants) - LNBits for small merchants, use case
 - [Substack](https://darthcoin.substack.com/p/the-bank-of-lnbits) - The Bank of LNBits, how to be a bank for your merchant friend
 - [Setup LNbits on a VPS](https://github.com/TrezorHannes/vps-lnbits) - Documentation to setup LNbits on a VPS
+- [Substack](https://kuroba.substack.com/p/how-to-receive-bitcoin-lightning) - How to use LNbits LNURL QR codes
 
 # LNbits Extensions
 
