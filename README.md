@@ -55,14 +55,17 @@ Awesome extensions and projects built on LNBits.
 - [LNbits Link](https://github.com/bitcoincoretech/lnbits-link) - Browser extensions for LNbits
 - [LNBits JS API](https://github.com/MiguelMedeiros/lnbits-js) - Easy way to add LNBits API to your JS application.
 - [lnurl-node](https://github.com/chill117/lnurl-node) - Node.js implementation of an LNURL server w/ CLI and API. Integrates LNbits as a Lightning backend.
-- [ln ⚡️ vpn](https://lnvpn.net) - A simple Lightning only VPN provider. No registration, accountless. 
 - [Satdress](https://github.com/fiatjaf/satdress) - Federated Lightning Address Server supporting LNBits integration.
 - [Tunnel ⚡️ Sats](https://tunnelsats.com/) & [Tor-Link](http://tunnelpasz3fpxhuw6obb5tpuqkxmcmvqh7asx5vkqfwe7ix74ry22ad.onion) - automated service for lightning nodes enabling hybrid mode (clearnet & Tor connectivity) for paid VPN servers in various countries and fixed periods 
 
-#### Telegram
-- [BitcoinVoucherBot](https://t.me/BitcoinVoucherBot) - A service for purchasing #Bitcoin #Lightning Vouchers built using LNBits
+#### Powered by LNbits
+- [BitcoinVoucherBot](https://t.me/BitcoinVoucherBot) - A service for purchasing #Bitcoin #Lightning Vouchers in Telegram
 - [laiseebot](https://github.com/bitkarrot/laiseebot) - 🧧Little red envelopes with money: ⚡Lightning Laisee.
 - [LightningTipBot](https://github.com/LightningTipBot/LightningTipBot) - A tip bot and Lightning wallet on Telegram
+- [ln ⚡️ vpn](https://lnvpn.net) - A simple Lightning only VPN provider. No registration, accountless
+- [Rayito app](https://rayito.app/) - A simple LNbits wallet app. No registration, accountless. 
+- [LNURL PoS app](https://twitter.com/bitrequest/status/1566779663518662661) - LNURL point of sale app by [Bitrequest.io](https://bitrequest.io)
+- Candles BeerTap: [Adopting Bitcoin El Salvador](https://twitter.com/MichaelRihani/status/1490891558224564226) | [Bitcoin Bar Berlin](https://twitter.com/L0laL33tz/status/1456346866875052034) | [Lightning Hackday in Istanbul](https://twitter.com/arcbtc/status/1497188876288417796) | [Oslo Freedom Forum](https://twitter.com/stephanlivera/status/1529579038427209729) | [EMF hacker camp in England](https://twitter.com/arcbtc/status/1534490835143860225) | [BTCEvent22 Mettmann](https://twitter.com/fulmolightning/status/1553327221686865920) | [Hotel Princess Stuttgart](https://twitter.com/PrincessPlo/status/1530199423644585985)
 
 #### Wordpress
 - [LNbits for WooCommerce](https://wordpress.org/plugins/lightning-payment-gateway-lnbits/) - Use LNbits as a payment method
