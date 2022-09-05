@@ -64,8 +64,7 @@ Awesome extensions and projects built on LNBits.
 - [LightningTipBot](https://github.com/LightningTipBot/LightningTipBot) - A tip bot and Lightning wallet on Telegram
 - [ln ⚡️ vpn](https://lnvpn.net) - A simple Lightning only VPN provider. No registration, accountless
 - [Rayito app](https://rayito.app/) - A simple LNbits wallet app. No registration, accountless. 
-- [LNURL PoS app](/assets/images/lnbits_pos.mp4) - LNURL point of sale app by [Bitrequest.io](https://bitrequest.io)
-- [LNURL request](/assets/images/lnbits_pos.mp4) - Send Lightning request app by [Bitrequest.io](https://bitrequest.io)
+- [LNURL PoS app](https://twitter.com/bitrequest/status/1566779663518662661) - LNURL point of sale app by [Bitrequest.io](https://bitrequest.io)
 - Candles BeerTap: [Adopting Bitcoin El Salvador](https://twitter.com/MichaelRihani/status/1490891558224564226) | [Bitcoin Bar Berlin](https://twitter.com/L0laL33tz/status/1456346866875052034) | [Lightning Hackday in Istanbul](https://twitter.com/arcbtc/status/1497188876288417796) | [Oslo Freedom Forum](https://twitter.com/stephanlivera/status/1529579038427209729) | [EMF hacker camp in England](https://twitter.com/arcbtc/status/1534490835143860225) | [BTCEvent22 Mettmann](https://twitter.com/fulmolightning/status/1553327221686865920) | [Hotel Princess Stuttgart](https://twitter.com/PrincessPlo/status/1530199423644585985)
 
 #### Wordpress
