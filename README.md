@@ -20,8 +20,11 @@ Awesome extensions and projects built on LNBits.
 # LNbits Extensions
 
 - [Bleskomat](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/bleskomat) - Connect one or more Bleskomat ATMs to LNbits wallet accounts
+- [BoltCard](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/boltcards) - Link a BoltCard (or other compatible NXP NTAG device) with a LNbits instance
+- [BoltzSwap](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/boltz) - Make swaps LN <-> onchain with Boltz Exchange
 - [Discord Bot](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/discordbot) - Provide LNbits wallets for all your Discord users
 - [Events](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/events) - Sell and register event tickets
+- [Invoices](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/invoices) - Create invoices that you can send to your client to pay online over Lightning
 - [Jukebox](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/jukebox) - Easily create a jukebox using Spotify/LNbits
 - [Livestream](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/livestream) - DJs receive tips live and split with a producer
 - [Lightning Address](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/lnaddress) - Rent Lightning Addresses on your domain
@@ -35,6 +38,7 @@ Awesome extensions and projects built on LNBits.
 - [Paywall](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/paywall) - Lightning paywalls
 - [Satsdice](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/satsdice) - Create static LNURL powered satsdices
 - [SatsPay Server](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/satspay) - Create onchain and LN charges. Includes webhooks
+- [Scrub](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/scrub) - Automatically forward funds that get paid to a wallet/LNURL
 - [Split Payments](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/splitpayments) - Split Payments extension allows for distributing payments across multiple wallets.
 - [Streamer Copilot](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/copilot) - Tip for video streamers, triggers animations
 - [Stream Alerts](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/streamalerts) - Integrate Bitcoin Donations into your livestream alerts
@@ -69,6 +73,7 @@ Awesome extensions and projects built on LNBits.
 - [LNURL PoS app](https://twitter.com/bitrequest/status/1566779663518662661) - LNURL point of sale app by [Bitrequest.io](https://bitrequest.io)
 - [Tatacoa](https://www.tatacoabitcoin.com/) - Custodial Bitcoin Lightning services in Colombia
 - Candles BeerTap: [Adopting Bitcoin El Salvador](https://twitter.com/MichaelRihani/status/1490891558224564226) | [Bitcoin Bar Berlin](https://twitter.com/L0laL33tz/status/1456346866875052034) | [Lightning Hackday in Istanbul](https://twitter.com/arcbtc/status/1497188876288417796) | [Oslo Freedom Forum](https://twitter.com/stephanlivera/status/1529579038427209729) | [EMF hacker camp in England](https://twitter.com/arcbtc/status/1534490835143860225) | [BTCEvent22 Mettmann](https://twitter.com/fulmolightning/status/1553327221686865920) | [Hotel Princess Stuttgart](https://twitter.com/PrincessPlo/status/1530199423644585985)
+- LNbits LNURL NFC cards: [Paying beers at Satoshi's Place](https://twitter.com/blackcoffeebtc/status/1571171856123559936?s=19)
 
 #### Wordpress
 - [LNbits for WooCommerce](https://wordpress.org/plugins/lightning-payment-gateway-lnbits/) - Use LNbits as a payment method
