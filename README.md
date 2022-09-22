@@ -84,6 +84,7 @@ Awesome extensions and projects built on LNBits.
 
 # Hardware projects utilizing LNBits
 
-- [bitcoinPoS](https://github.com/arcbtc/bitcoinPoS) - Free and open-source bitcoin point-of-sale. 
+- [bitcoinPoS](https://github.com/arcbtc/bitcoinPoS) - Free and open-source bitcoin point-of-sale
+- [bitcoinVend](https://github.com/arcbtc/bitcoinVend) - Offline Vending machine
 - [bitcoinSwitch](https://github.com/arcbtc/bitcoinSwitch) - Turn things on with bitcoin.
 - [LNURLPoS kit](https://nl.aliexpress.com/item/1005003589706292.html) - bitcoinPOS hardware kit from the official LILYGO store
