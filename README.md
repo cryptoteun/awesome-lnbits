@@ -17,6 +17,7 @@ Awesome extensions and projects built on LNBits.
 - [Documentation to setup LNbits on a VPS](https://github.com/TrezorHannes/vps-lnbits) | Github open guide
 - [How to use LNbits LNURL QR codes](https://kuroba.substack.com/p/how-to-receive-bitcoin-lightning) | Substack post
 - [In depth video presentation of all LNbits extensions](https://youtu.be/ZTjFalYeOlA) | Youtube demo
+- [How to SAFELY Use Your Lightning Node On-The-Go with LNbits](https://youtu.be/i5FQf96e6zg) | Youtube demo
 
 # LNbits Extensions
 
