@@ -76,12 +76,13 @@ Awesome extensions and projects built on LNBits.
 - [Tatacoa](https://www.tatacoabitcoin.com/) - Custodial Bitcoin Lightning services in Colombia
 - Candles BeerTap: [Adopting Bitcoin El Salvador](https://twitter.com/MichaelRihani/status/1490891558224564226) | [Bitcoin Bar Berlin](https://twitter.com/L0laL33tz/status/1456346866875052034) | [Lightning Hackday in Istanbul](https://twitter.com/arcbtc/status/1497188876288417796) | [Oslo Freedom Forum](https://twitter.com/stephanlivera/status/1529579038427209729) | [EMF hacker camp in England](https://twitter.com/arcbtc/status/1534490835143860225) | [BTCEvent22 Mettmann](https://twitter.com/fulmolightning/status/1553327221686865920) | [Hotel Princess Stuttgart](https://twitter.com/PrincessPlo/status/1530199423644585985)
 - LNbits LNURL NFC cards: [Paying beers at Satoshi's Place](https://twitter.com/blackcoffeebtc/status/1571171856123559936?s=19) | [BitKassa merchants](https://twitter.com/BitKassaNL/status/1578822489442222081)
+- [Lightning Checkout](https://lightningcheckout.eu) - A custodial Bitcoin Lightning payment processor which uses LNBits as their backend.
 
 #### Wordpress
 - [LNbits for WooCommerce](https://wordpress.org/plugins/lightning-payment-gateway-lnbits/) - Use LNbits as a payment method
 - [Pay-to-read-more](https://github.com/schulterklopfer/ptrm) - Wordpress plugin for paywalled content
-- [WP-Lightning](https://github.com/bumi/wp-lightning) - A Bitcoin Lightning paywall plugin for Wordpress.
 - [Pay to Comment with Lightning](https://wordpress.org/plugins/wp-lightning-comments/) - This plugin disables the comment form until a Lightning payment is received
+- [Bitcoin Lightning Publisher](https://wordpress.org/plugins/bitcoin-lightning-publisher/) -  A Paywall, Donation and Value 4 Value plugin to accept instant Bitcoin Lightning payments. [Demo](https://twitter.com/LNCheckout/status/1579047324260904960)
 
 # Hardware projects utilizing LNBits
 
