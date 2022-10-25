@@ -77,8 +77,7 @@ Awesome extensions and projects built on LNBits.
 - Candles BeerTap: [Adopting Bitcoin El Salvador](https://twitter.com/MichaelRihani/status/1490891558224564226) | [Bitcoin Bar Berlin](https://twitter.com/L0laL33tz/status/1456346866875052034) | [Lightning Hackday in Istanbul](https://twitter.com/arcbtc/status/1497188876288417796) | [Oslo Freedom Forum](https://twitter.com/stephanlivera/status/1529579038427209729) | [EMF hacker camp in England](https://twitter.com/arcbtc/status/1534490835143860225) | [BTCEvent22 Mettmann](https://twitter.com/fulmolightning/status/1553327221686865920) | [Hotel Princess Stuttgart](https://twitter.com/PrincessPlo/status/1530199423644585985)
 - LNURL NFC cards: [Paying beers at Satoshi's Place](https://twitter.com/blackcoffeebtc/status/1571171856123559936?s=19) | [BitKassa merchants](https://twitter.com/BitKassaNL/status/1578822489442222081) | [Beer payment at BTC Conference Amsterdam](https://twitter.com/einzie/status/1580140879800852480)
 - [Lightning Checkout](https://lightningcheckout.eu) - A custodial Bitcoin Lightning payment processor which uses LNBits as their backend.
-- LNURL Offline PoS: [Mery Burger Station, Germany](https://twitter.com/friecast/status/1578457793035898882)
-- LNURL TPoS: [BurgerTruck, Germany](https://mobile.twitter.com/friecast/status/1555983298240856068)
+- LNURL Offline PoS: [Mery Burger Station, Germany](https://twitter.com/friecast/status/1578457793035898882) | [BurgerTruck, Germany](https://twitter.com/friecast/status/1555983298240856068) | [Barbershop, Germany](https://twitter.com/DrShift3/status/1585019957607542784) | [Burger Station, Germany](https://twitter.com/Bblocker21/status/1582758428669145088) | [Honey](https://twitter.com/leblitzdick/status/1270008973152976896)
 - [The Bolt Ring](https://twitter.com/bitcoin_ring/status/1581966568631988224) - A ring with integrated NFC chip used for LNURL payments
 
 #### Wordpress
