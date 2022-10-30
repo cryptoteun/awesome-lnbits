@@ -67,6 +67,7 @@ Awesome extensions and projects built on LNBits.
 - [lnurl-node](https://github.com/chill117/lnurl-node) - Node.js implementation of an LNURL server w/ CLI and API. Integrates LNbits as a Lightning backend.
 - [Satdress](https://github.com/fiatjaf/satdress) - Federated Lightning Address Server supporting LNBits integration.
 - [Tunnel ⚡️ Sats](https://tunnelsats.com/) & [Tor-Link](http://tunnelpasz3fpxhuw6obb5tpuqkxmcmvqh7asx5vkqfwe7ix74ry22ad.onion) - automated service for lightning nodes enabling hybrid mode (clearnet & Tor connectivity) for paid VPN servers in various countries and fixed periods 
+- [storage4sats](https://storage4sats.surge.sh) - Upload a file, pay with sats, share link. No account, no ads.
 
 #### Powered by LNbits
 - [BitcoinVoucherBot](https://t.me/BitcoinVoucherBot) - A service for purchasing #Bitcoin #Lightning Vouchers in Telegram
