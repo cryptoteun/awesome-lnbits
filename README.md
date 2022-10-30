@@ -81,6 +81,7 @@ Awesome extensions and projects built on LNBits.
 - [Lightning Checkout](https://lightningcheckout.eu) - A custodial Bitcoin Lightning payment processor which uses LNBits as their backend.
 - LNURL Offline PoS: [Mery Burger Station, Germany](https://twitter.com/friecast/status/1578457793035898882) | [BurgerTruck, Germany](https://twitter.com/friecast/status/1555983298240856068) | [Barbershop, Germany](https://twitter.com/DrShift3/status/1585019957607542784) | [Burger Station, Germany](https://twitter.com/Bblocker21/status/1582758428669145088) | [Honey](https://twitter.com/leblitzdick/status/1270008973152976896)
 - [The Bolt Ring](https://twitter.com/bitcoin_ring/status/1581966568631988224) - A ring with integrated NFC chip used for LNURL payments
+- [Bulk Bolt Cards](https://github.com/leesalminen/bulk-boltcards) - A tool that lets you generate bolt cards w/ paper wallets in bulk, powered by LNBits.
 
 #### Wordpress
 - [LNbits for WooCommerce](https://wordpress.org/plugins/lightning-payment-gateway-lnbits/) - Use LNbits as a payment method
