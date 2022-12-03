@@ -82,6 +82,7 @@ Awesome extensions and projects built on LNBits.
 - LNURL Offline PoS: [Mery Burger Station](https://twitter.com/friecast/status/1578457793035898882), Germany | [BurgerTruck](https://twitter.com/friecast/status/1555983298240856068), Germany | [Barbershop](https://twitter.com/DrShift3/status/1585019957607542784), Germany | [Burger Station](https://twitter.com/Bblocker21/status/1582758428669145088), Germany | [Honey](https://twitter.com/leblitzdick/status/1270008973152976896), Germany | [Cheese Dely](https://twitter.com/DrShift3/status/1587067907556646912), Switzerland
 - The NFC LNURL Bolt Ring - [Promo](https://twitter.com/bitcoin_ring/status/1581966568631988224) | [Pay food with Bolt Ring](https://nitter.it/BTCGandalf/status/1587071445435383817), UK
 - [Bulk Bolt Cards](https://github.com/leesalminen/bulk-boltcards) - A tool that lets you generate bolt cards w/ paper wallets in bulk, powered by LNBits.
+- [BTC Map](https://btcmap.org/) - Map with places where you can spend bitcoin, powered by LNBits.
 
 #### Wordpress
 - [LNbits for WooCommerce](https://wordpress.org/plugins/lightning-payment-gateway-lnbits/) - Use LNbits as a payment method
