@@ -83,6 +83,7 @@ Awesome extensions and projects built on LNBits.
 - The NFC LNURL Bolt Ring - [Promo](https://twitter.com/bitcoin_ring/status/1581966568631988224) | [Pay food with Bolt Ring](https://nitter.it/BTCGandalf/status/1587071445435383817), UK
 - [Bulk Bolt Cards](https://github.com/leesalminen/bulk-boltcards) - A tool that lets you generate bolt cards w/ paper wallets in bulk, powered by LNBits.
 - [BTC Map](https://btcmap.org/) - Map with places where you can spend bitcoin, powered by LNBits.
+- [LED powered by Lightning](https://www.rebelmoney.art/day-1) - pay some sats to turn on a song and lights by Rebel Money
 
 #### Wordpress
 - [LNbits for WooCommerce](https://wordpress.org/plugins/lightning-payment-gateway-lnbits/) - Use LNbits as a payment method
