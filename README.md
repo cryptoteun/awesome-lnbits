@@ -51,8 +51,8 @@ Awesome extensions and projects built on LNBits.
 - [Tip Jars](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/tipjar) - Accept tips in Bitcoin, with small messages attached
 - [TPoS](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/tpos) - Mobile ready point-of-sale terminal
 - [userManager](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/usermanager) - Make and manage users/wallets (useful if using LNbits in your software stack)
-- [Watch Only wallet](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/watchonly) - Monitor an onchain wallet and generate addresses for onchain payments
-- [Withdraw](https://github.com/lnbits/lnbits-legend/tree/main/lnbits/extensions/withdraw) - Mint LNURL-withdraws (Pull payments links, faucets, etc)
+- [Watch Only wallet](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/watchonly) - Monitor an onchain wallet and generate addresses for onchain payments
+- [Withdraw](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/withdraw) - Mint LNURL-withdraws (Pull payments links, faucets, etc)
 
 # Software Projects utilizing LNbits
 
