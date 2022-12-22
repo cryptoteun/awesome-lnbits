@@ -87,7 +87,8 @@ Awesome extensions and projects built on LNBits.
 - [LED powered by Lightning](https://www.rebelmoney.art/day-1) - pay some sats to turn on a song and lights by Rebel Money
 
 #### Wordpress
-- [LNbits for WooCommerce](https://wordpress.org/plugins/lightning-payment-gateway-lnbits/) - Use LNbits as a payment method
+- [LNbits – Bitcoin Onchain and Lightning Payment Gateway](https://wordpress.org/plugins/lnbits-bitcoin-onchain-and-lightning-payment-gateway/) - Official LNbits Woocommerce plugin
+- [Bitcoin/Lightning Payment Gateway – LNBits](https://wordpress.org/plugins/lightning-payment-gateway-lnbits/) - by Phaedrus Woocommerce plugin
 - [Pay-to-read-more](https://github.com/schulterklopfer/ptrm) - Wordpress plugin for paywalled content
 - [Pay to Comment with Lightning](https://wordpress.org/plugins/wp-lightning-comments/) - This plugin disables the comment form until a Lightning payment is received
 - [Bitcoin Lightning Publisher](https://wordpress.org/plugins/bitcoin-lightning-publisher/) -  A Paywall, Donation and Value 4 Value plugin to accept instant Bitcoin Lightning payments. [Demo](https://twitter.com/LNCheckout/status/1579047324260904960)
