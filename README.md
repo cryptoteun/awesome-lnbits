@@ -86,6 +86,7 @@ Awesome extensions and projects built on LNBits.
 - [NFC Brrr Machine](https://nfc-brrr.com/) - A website that help you to print multiple NFC cards with LNURL, powered by LNBits.
 - [BTC Map](https://btcmap.org/) - Map with places where you can spend bitcoin, powered by LNBits.
 - [LED powered by Lightning](https://www.rebelmoney.art/day-1) - pay some sats to turn on a song and lights by Rebel Money
+- [PlebTag](https://plebtag.com/) - Customized NFC cards and badges, powered by LNbits
 
 #### Wordpress
 - [LNbits – Bitcoin Onchain and Lightning Payment Gateway](https://wordpress.org/plugins/lnbits-bitcoin-onchain-and-lightning-payment-gateway/) - Official LNbits Woocommerce plugin
