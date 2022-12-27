@@ -20,6 +20,7 @@ Awesome extensions and projects built on LNBits.
 - [How to use LNbits LNURL QR codes](https://kuroba.substack.com/p/how-to-receive-bitcoin-lightning) | Substack post
 - [In depth video presentation of all LNbits extensions](https://youtu.be/ZTjFalYeOlA) | Youtube demo
 - [How to SAFELY Use Your Lightning Node On-The-Go with LNbits](https://youtu.be/i5FQf96e6zg) | Youtube demo
+- [How To Make A NFC Card & Properly Format/Erase/Delete It with LNbits](https://youtu.be/Pe0YXHawHvQ) | Youtube tutorial
 
 # LNbits Extensions
 
