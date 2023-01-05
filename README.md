@@ -31,6 +31,7 @@ Awesome extensions and projects built on LNBits.
 - [Cashu](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/cashu) - Create ecash mint for pegging in/out of ecash
 - [Discord Bot](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/discordbot) - Provide LNbits wallets for all your Discord users
 - [Events](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/events) - Sell and register event tickets
+- [Gerty](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/gerty) - Use this extension for your Gerty gadgets
 - [Invoices](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/invoices) - Create invoices that you can send to your client to pay online over Lightning
 - [Jukebox](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/jukebox) - Easily create a jukebox using Spotify/LNbits
 - [Livestream](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/livestream) - DJs receive tips live and split with a producer
@@ -40,7 +41,9 @@ Awesome extensions and projects built on LNBits.
 - [LNURLDevice](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/lnurldevice) - For offline LNURL devices
 - [LNURLp](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/lnurlp) - Mint LNURL-pay links (static LN payment QR codes, etc)
 - [LNURLPayOut](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/lnurlpayout) - Auto-dump a wallets funds to an LNURLpay
+- [Market](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/market) - Build your own shop stall on a virtual marketplace with LNbits
 - [Ngrok](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/ngrok) - Get a clearnet Ngrok url for your LNbits
+- [NOSTR-NIP5](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/nostrnip5) - Allows users to sell NIP-05 verification to other nostr users on a domain they control.
 - [OfflineShop](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/offlineshop) - Receive/verify lightning payments offline
 - [Paywall](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/paywall) - Lightning paywalls
 - [Satsdice](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/satsdice) - Create static LNURL powered satsdices
