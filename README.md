@@ -6,7 +6,7 @@ Awesome extensions and projects built on LNBits.
 
 - [Github](https://github.com/lnbits/lnbits) - Official Repository
 - [lnbits.com](https://lnbits.com) - Official Webpage
-- [legend.lnbits.org](https://legend.lnbits.org/guide/installation.html) - Manual Installation Instructions
+- [docs.lnbits.org](https://docs.lnbits.org/) - Manual Installation Instructions
 - [legend.lnbits.com/docs](https://legend.lnbits.com/docs) - LNbits API Documentation
 - [LNbits YouTube](https://www.youtube.com/playlist?list=PLPj3KCksGbSYG0ciIQUWJru1dWstPHshe) - LNBits video series
 - [MakerBits YouTube](https://www.youtube.com/channel/UCZhKfzK6_KWZ-CFC2wXQVBw/videos) - Ben Arc Video Tutorials Gadgets based on LNbits
