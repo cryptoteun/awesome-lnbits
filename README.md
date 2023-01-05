@@ -13,6 +13,7 @@ Awesome extensions and projects built on LNBits.
 
 # User Guides
 
+- [Getting started with LNBits](https://darthcoin.substack.com/p/getting-started-lnbits) | Substack post (multi-languages)
 - [LNBits for small merchants, use case](https://darthcoin.substack.com/p/lnbits-for-small-merchants) | Substack post
 - [The Bank of LNBits, how to be a bank for your merchant friend](https://darthcoin.substack.com/p/the-bank-of-lnbits) | Substack post
 - [How to use your bundle node with a separate LNbits machine](https://darthcoin.substack.com/p/build-your-own-lnbits-app-server) | Substack post
