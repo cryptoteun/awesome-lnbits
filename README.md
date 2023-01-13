@@ -93,6 +93,7 @@ Awesome extensions and projects built on LNBits.
 - [LED powered by Lightning](https://www.rebelmoney.art/day-1) - pay some sats to turn on a song and lights by Rebel Money
 - [PlebTag](https://plebtag.com/) - Customized NFC cards and badges, powered by LNbits
 - [Lightsats](https://lightsats.com/) - Onboarding newbies to bitcoin using tips, powered by LNbits
+- [Lightning Cats](https://lightningcats.org/) - Send sats to switch on things for cats, powered by LNbits
 
 #### Wordpress
 - [LNbits – Bitcoin Onchain and Lightning Payment Gateway](https://wordpress.org/plugins/lnbits-bitcoin-onchain-and-lightning-payment-gateway/) - Official LNbits Woocommerce plugin
