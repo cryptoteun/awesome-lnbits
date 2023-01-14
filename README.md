@@ -29,6 +29,7 @@ Awesome extensions and projects built on LNBits.
 - [BoltCard](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/boltcards) - Link a BoltCard (or other compatible NXP NTAG device) with a LNbits instance
 - [BoltzSwap](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/boltz) - Make swaps LN <-> onchain with Boltz Exchange
 - [Cashu](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/cashu) - Create ecash mint for pegging in/out of ecash
+- [Deezy Swap](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/deezy) - Make swaps LN <-> onchain with Deezy Swap
 - [Discord Bot](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/discordbot) - Provide LNbits wallets for all your Discord users
 - [Events](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/events) - Sell and register event tickets
 - [Gerty](https://github.com/lnbits/lnbits/tree/main/lnbits/extensions/gerty) - Use this extension for your Gerty gadgets
