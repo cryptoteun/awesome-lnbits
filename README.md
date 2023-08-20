@@ -72,7 +72,7 @@ Awesome extensions and projects built on LNBits.
 - [LNBits JS API](https://github.com/MiguelMedeiros/lnbits-js) - Easy way to add LNBits API to your JS application.
 - [lnurl-node](https://github.com/chill117/lnurl-node) - Node.js implementation of an LNURL server w/ CLI and API. Integrates LNbits as a Lightning backend.
 - [Satdress](https://github.com/fiatjaf/satdress) - Federated Lightning Address Server supporting LNBits integration.
-- [Tunnel ⚡️ Sats](https://tunnelsats.com/) & [Tor-Link](http://tunnelpasz3fpxhuw6obb5tpuqkxmcmvqh7asx5vkqfwe7ix74ry22ad.onion) - automated service for lightning nodes enabling hybrid mode (clearnet & Tor connectivity) for paid VPN servers in various countries and fixed periods 
+- [Tunnel ⚡️ Sats](https://tunnelsats.com/) & [Tor-Link](http://tunnelpasz3fpxhuw6obb5tpuqkxmcmvqh7asx5vkqfwe7ix74ry22ad.onion) - VPN provider for LN Node Runners
 
 #### Powered by LNbits
 - [BitcoinVoucherBot](https://t.me/BitcoinVoucherBot) - A service for purchasing #Bitcoin #Lightning Vouchers in Telegram
@@ -83,17 +83,38 @@ Awesome extensions and projects built on LNBits.
 - [LNURL PoS app](https://twitter.com/bitrequest/status/1566779663518662661) - LNURL point of sale app by [Bitrequest.io](https://bitrequest.io)
 - [Tatacoa](https://www.tatacoabitcoin.com/) - Custodial Bitcoin Lightning services in Colombia
 - [Lightning Checkout](https://lightningcheckout.eu) - A custodial Bitcoin Lightning payment processor which uses LNBits as their backend.
-- Candles BeerTap: [Adopting Bitcoin Conference](https://twitter.com/MichaelRihani/status/1490891558224564226), El Salvador | [Bitcoin Bar Berlin](https://twitter.com/L0laL33tz/status/1456346866875052034), Germany | [Lightning Hackday Istanbul](https://twitter.com/arcbtc/status/1497188876288417796), Turkey | [Oslo Freedom Forum](https://twitter.com/stephanlivera/status/1529579038427209729), Norway | [EMF hacker camp](https://twitter.com/arcbtc/status/1534490835143860225), UK | [BTCEvent22 Mettmann](https://twitter.com/fulmolightning/status/1553327221686865920), Germany | [Hotel Princess Stuttgart](https://twitter.com/PrincessPlo/status/1530199423644585985), Germany | [Bitcoin Conference Amsterdam](https://twitter.com/fulmolightning/status/1580156140742410241), The Netherlands
-- LNURL NFC cards: [Satoshi's Place](https://twitter.com/blackcoffeebtc/status/1571171856123559936?s=19), UK | [BitKassa merchants](https://twitter.com/BitKassaNL/status/1578822489442222081), Belgium | [BTC Conference Amsterdam](https://twitter.com/einzie/status/1580140879800852480), The Netherlands | [Praia Bitcoin](https://nitter.it/BitcoinBeachBR/status/1588256248369057792), Brazil
-- LNURL Offline PoS: [Mery Burger Station](https://twitter.com/friecast/status/1578457793035898882), Germany | [BurgerTruck](https://twitter.com/friecast/status/1555983298240856068), Germany | [Barbershop](https://twitter.com/DrShift3/status/1585019957607542784), Germany | [Burger Station](https://twitter.com/Bblocker21/status/1582758428669145088), Germany | [Honey](https://twitter.com/leblitzdick/status/1270008973152976896), Germany | [Cheese Dely](https://twitter.com/DrShift3/status/1587067907556646912), Switzerland
-- The NFC LNURL Bolt Ring - [Promo](https://twitter.com/bitcoin_ring/status/1581966568631988224) | [Pay food with Bolt Ring](https://nitter.it/BTCGandalf/status/1587071445435383817), UK
-- [Bulk vouchers cards](https://github.com/leesalminen/bulk-boltcards) -  A tool that lets you generate lighting voucher cards w/ and onchain paper wallets in bulk, powered by LNBits.
-- [NFC Brrr Machine](https://nfc-brrr.com/) - A website that help you to print multiple NFC cards with LNURL, powered by LNBits.
-- [BTC Map](https://btcmap.org/) - Map with places where you can spend bitcoin, powered by LNBits.
+- [Lightning Goats](https://lightning-goats.com) - A lightning powered goat feeder using lnbits and openhab.
+- Candles BeerTap:
+  - [Adopting Bitcoin Conference](https://twitter.com/MichaelRihani/status/1490891558224564226), El Salvador
+  - [Bitcoin Bar Berlin](https://twitter.com/L0laL33tz/status/1456346866875052034), Germany
+  - [Lightning Hackday Istanbul](https://twitter.com/arcbtc/status/1497188876288417796), Turkey
+  - [Oslo Freedom Forum](https://twitter.com/stephanlivera/status/1529579038427209729), Norway
+  - [EMF hacker camp](https://twitter.com/arcbtc/status/1534490835143860225), UK
+  - [BTCEvent22 Mettmann](https://twitter.com/fulmolightning/status/1553327221686865920), Germany
+  - [Hotel Princess Stuttgart](https://twitter.com/PrincessPlo/status/1530199423644585985), Germany
+  - [Bitcoin Conference Amsterdam](https://twitter.com/fulmolightning/status/1580156140742410241), The Netherlands
+- LNURL NFC cards:
+  - [Satoshi's Place](https://twitter.com/blackcoffeebtc/status/1571171856123559936?s=19), UK
+  - [BitKassa merchants](https://twitter.com/BitKassaNL/status/1578822489442222081), Belgium
+  - [BTC Conference Amsterdam](https://twitter.com/einzie/status/1580140879800852480), The Netherlands
+  - [Praia Bitcoin](https://nitter.it/BitcoinBeachBR/status/1588256248369057792), Brazil
+- LNURL Offline PoS:
+  - [Mery Burger Station](https://twitter.com/friecast/status/1578457793035898882), Germany
+  - [BurgerTruck](https://twitter.com/friecast/status/1555983298240856068), Germany
+  - [Barbershop](https://twitter.com/DrShift3/status/1585019957607542784), Germany
+  - [Burger Station](https://twitter.com/Bblocker21/status/1582758428669145088), Germany
+  - [Honey](https://twitter.com/leblitzdick/status/1270008973152976896), Germany
+  - [Cheese Dely](https://twitter.com/DrShift3/status/1587067907556646912), Switzerland
+- The NFC LNURL Bolt Ring -
+  - [Promo](https://twitter.com/bitcoin_ring/status/1581966568631988224)
+  - [Pay food with Bolt Ring](https://nitter.it/BTCGandalf/status/1587071445435383817), UK
+- [Bulk vouchers cards](https://github.com/leesalminen/bulk-boltcards) -  A tool that lets you generate lighting voucher cards w/ and onchain paper wallets in bulk.
+- [NFC Brrr Machine](https://nfc-brrr.com/) - A website that help you to print multiple NFC cards with LNURL.
+- [BTC Map](https://btcmap.org/) - Map with places where you can spend bitcoin.
 - [LED powered by Lightning](https://www.rebelmoney.art/day-1) - pay some sats to turn on a song and lights by Rebel Money
-- [PlebTag](https://plebtag.com/) - Customized NFC cards and badges, powered by LNbits
-- [Lightsats](https://lightsats.com/) - Onboarding newbies to bitcoin using tips, powered by LNbits
-- [Lightning Cats](https://lightningcats.org/) - Send sats to switch on things for cats, powered by LNbits
+- [PlebTag](https://plebtag.com/) - Customized NFC cards and badges.
+- [Lightsats](https://lightsats.com/) - Onboarding newbies to bitcoin using tips.
+- [Lightning Cats](https://lightningcats.org/) - Send sats to switch on things for cats.
 
 #### Wordpress
 - [LNbits – Bitcoin Onchain and Lightning Payment Gateway](https://wordpress.org/plugins/lnbits-bitcoin-onchain-and-lightning-payment-gateway/) - Official LNbits Woocommerce plugin
@@ -103,8 +124,6 @@ Awesome extensions and projects built on LNBits.
 - [Bitcoin Lightning Publisher](https://wordpress.org/plugins/bitcoin-lightning-publisher/) -  A Paywall, Donation and Value 4 Value plugin to accept instant Bitcoin Lightning payments. [Demo](https://twitter.com/LNCheckout/status/1579047324260904960)
 
 # Hardware projects utilizing LNBits
-
-
 - [bitcoinSwitch](https://github.com/lnbits/bitcoinswitch) - Turn things on with bitcoin.
 - [bitcoinVend](https://github.com/arcbtc/bitcoinVend) - Offline Vending machine
 - [hardware wallet](https://github.com/lnbits/hardware-wallet) - DIY Bitcoin Hardware Wallet
