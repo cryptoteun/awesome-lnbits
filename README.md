@@ -123,6 +123,7 @@ Awesome extensions and projects built on LNBits.
 - [Pay-to-read-more](https://github.com/schulterklopfer/ptrm) - Wordpress plugin for paywalled content
 - [Pay to Comment with Lightning](https://wordpress.org/plugins/wp-lightning-comments/) - This plugin disables the comment form until a Lightning payment is received
 - [Bitcoin Lightning Publisher](https://wordpress.org/plugins/bitcoin-lightning-publisher/) -  A Paywall, Donation and Value 4 Value plugin to accept instant Bitcoin Lightning payments. [Demo](https://twitter.com/LNCheckout/status/1579047324260904960)
+- [Bitcoin Donations](https://github.com/lnbits/wp-donate-lnbits) - Accept Bitcoin donations on your Wordpress site and present donation messages on your website. [Demo](https://bitcoinfocus.nl/doneer/)
 
 # Hardware projects utilizing LNBits
 - [bitcoinSwitch](https://github.com/lnbits/bitcoinswitch) - Turn things on with bitcoin.
