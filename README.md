@@ -122,7 +122,7 @@ Awesome extensions and projects built on LNBits.
 - [Bitcoin/Lightning Payment Gateway – LNBits](https://wordpress.org/plugins/lightning-payment-gateway-lnbits/) - by Phaedrus Woocommerce plugin
 - [Pay-to-read-more](https://github.com/schulterklopfer/ptrm) - Wordpress plugin for paywalled content
 - [Pay to Comment with Lightning](https://wordpress.org/plugins/wp-lightning-comments/) - This plugin disables the comment form until a Lightning payment is received
-- [Bitcoin Lightning Publisher](https://wordpress.org/plugins/bitcoin-lightning-publisher/) -  A Paywall, Donation and Value 4 Value plugin to accept instant Bitcoin Lightning payments. [Demo](https://twitter.com/LNCheckout/status/1579047324260904960)
+- [Bitcoin Lightning Publisher](https://wordpress.org/plugins/bitcoin-lightning-publisher/) -  A Paywall, Donation and Value 4 Value plugin to accept instant Bitcoin Lightning payments.
 - [Bitcoin Donations](https://github.com/lnbits/wp-donate-lnbits) - Accept Bitcoin donations on your Wordpress site and present donation messages on your website. [Demo](https://bitcoinfocus.nl/doneer/)
 
 # Hardware projects utilizing LNBits
@@ -132,4 +132,5 @@ Awesome extensions and projects built on LNBits.
 - [LNPoS](https://github.com/lnbits/lnpos) - Free and open-source bitcoin point-of-sale
 - [LNPoS kit](https://nl.aliexpress.com/item/1005003589706292.html) - bitcoinPOS hardware kit from the official LILYGO store
 - [fossa](https://github.com/lnbits/fossa) - Free and open source ATM
-
+- [BitcoinTaps PartyTap](https://bitcointaps.com/partytap/) - With this PartyTap, Bitcoin becomes the life of the party as people pay with a Lightning wallet and pour their beer.
+- [BitcoinTaps ProTap](https://bitcointaps.com/protap/) - ProTap service is available for rent, perfect for any event, whether it’s a Bitcoin meetup or any gathering that needs a self-serving tap system.
