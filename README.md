@@ -73,6 +73,7 @@ Awesome extensions and projects built on LNBits.
 - [lnurl-node](https://github.com/chill117/lnurl-node) - Node.js implementation of an LNURL server w/ CLI and API. Integrates LNbits as a Lightning backend.
 - [Satdress](https://github.com/fiatjaf/satdress) - Federated Lightning Address Server supporting LNBits integration.
 - [Tunnel ⚡️ Sats](https://tunnelsats.com/) & [Tor-Link](http://tunnelpasz3fpxhuw6obb5tpuqkxmcmvqh7asx5vkqfwe7ix74ry22ad.onion) - VPN provider for LN Node Runners
+- [PeepsWire](https://peepswire.com) - A video-calling app that allows people to pay or earn bitcoin on a per minute basis in exchange for sharing their time, knowledge and expertise with other people globally.
 
 #### Powered by LNbits
 - [BitcoinVoucherBot](https://t.me/BitcoinVoucherBot) - A service for purchasing #Bitcoin #Lightning Vouchers in Telegram
